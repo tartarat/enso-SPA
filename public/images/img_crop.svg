@@ -1,0 +1,28 @@
+<svg width="290" height="277" viewBox="0 0 290 277" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<rect x="0.5" y="0.5" width="72.25" height="69" stroke="white"/>
+<rect x="0.5" y="69.5" width="72.25" height="69" stroke="white"/>
+<rect x="0.5" y="138.5" width="72.25" height="69" stroke="white"/>
+<rect x="0.5" y="207.5" width="72.25" height="69" stroke="white"/>
+<rect x="72.75" y="0.5" width="72.25" height="69" stroke="white"/>
+<rect x="72.75" y="69.5" width="72.25" height="69" stroke="white"/>
+<rect x="72.75" y="138.5" width="72.25" height="69" stroke="white"/>
+<rect x="72.75" y="207.5" width="72.25" height="69" stroke="white"/>
+<rect x="145" y="0.5" width="72.25" height="69" stroke="white"/>
+<rect x="145" y="69.5" width="72.25" height="69" stroke="white"/>
+<rect x="145" y="138.5" width="72.25" height="69" stroke="white"/>
+<rect x="145" y="207.5" width="72.25" height="69" stroke="white"/>
+<rect x="217.25" y="0.5" width="72.25" height="69" stroke="white"/>
+<rect x="217.25" y="69.5" width="72.25" height="69" stroke="white"/>
+<rect x="217.25" y="138.5" width="72.25" height="69" stroke="white"/>
+<rect x="217.25" y="207.5" width="72.25" height="69" stroke="white"/>
+</g>
+<rect x="133.5" y="4.5" width="24" height="2" rx="1" fill="white"/>
+<rect x="133.5" y="270.5" width="24" height="2" rx="1" fill="white"/>
+<rect x="4.5" y="150.5" width="24" height="2" rx="1" transform="rotate(-90 4.5 150.5)" fill="white"/>
+<rect x="283.5" y="150.5" width="24" height="2" rx="1" transform="rotate(-90 283.5 150.5)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M284.5 272.5H262.5C261.948 272.5 261.5 272.052 261.5 271.5C261.5 270.948 261.948 270.5 262.5 270.5H283.5L283.5 249.5C283.5 248.948 283.948 248.5 284.5 248.5C285.052 248.5 285.5 248.948 285.5 249.5L285.5 271.5C285.5 272.052 285.052 272.5 284.5 272.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M284.5 4.5H262.5C261.948 4.5 261.5 4.94772 261.5 5.5C261.5 6.05228 261.948 6.5 262.5 6.5H283.5L283.5 27.5C283.5 28.0523 283.948 28.5 284.5 28.5C285.052 28.5 285.5 28.0523 285.5 27.5L285.5 5.5C285.5 4.94772 285.052 4.5 284.5 4.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 272.5H27.5C28.0523 272.5 28.5 272.052 28.5 271.5C28.5 270.948 28.0523 270.5 27.5 270.5H6.5L6.5 249.5C6.5 248.948 6.05229 248.5 5.5 248.5C4.94772 248.5 4.5 248.948 4.5 249.5L4.5 271.5C4.5 272.052 4.94772 272.5 5.5 272.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 4.5H27.5C28.0523 4.5 28.5 4.94772 28.5 5.5C28.5 6.05228 28.0523 6.5 27.5 6.5H6.5L6.5 27.5C6.5 28.0523 6.05229 28.5 5.5 28.5C4.94772 28.5 4.5 28.0523 4.5 27.5L4.5 5.5C4.5 4.94772 4.94772 4.5 5.5 4.5Z" fill="white"/>
+</svg>
