@@ -3,7 +3,7 @@ import React from "react";
 import { Input } from "components";
 
 export default {
-  title: "enso_web/Input",
+  title: "enso_spa/Input",
   component: Input,
 };
 

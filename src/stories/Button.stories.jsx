@@ -3,7 +3,7 @@ import React from "react";
 import { Button as ButtonComponent, Img } from "components";
 
 export default {
-  title: "enso_web/Buttons",
+  title: "enso_spa/Buttons",
   component: ButtonComponent,
   argTypes: {
     children: { control: "text" },
