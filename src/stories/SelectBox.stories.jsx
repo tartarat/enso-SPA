@@ -3,7 +3,7 @@ import React from "react";
 import { SelectBox } from "components";
 
 export default {
-  title: "enso_web/SelectBox",
+  title: "enso_spa/SelectBox",
   component: SelectBox,
   argTypes: {
     options: {

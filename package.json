@@ -1,5 +1,5 @@
 {
-  "name": "enso-web",
+  "name": "enso-spa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

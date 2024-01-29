@@ -1,4 +1,4 @@
-## enso_web
+## enso_spa
 
 Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
